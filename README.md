@@ -14,3 +14,4 @@ Dibuja una peonía en 3D que florece sola, cicla entre distintas variantes de co
 
 - [p5.js](https://p5js.org/) — toda la parte gráfica, el canvas, el render
 - HTML/CSS/JS vanilla — sin frameworks, sin bundlers
+ Creditos https://github.com/jesusemans/peoniap5.git
